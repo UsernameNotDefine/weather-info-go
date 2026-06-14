@@ -100,6 +100,7 @@ https://openweathermap.org/api
 ## Автор
 
 Мой первый проект на Go!;3
+P.S API указанный в проекте не работает!
 
 ## ENG
 
@@ -208,3 +209,4 @@ https://openweathermap.org/api
 **UsernameNotDefine**
 
 My first Go project;3
+P.S API in a project doesnt work, change it on yours!
