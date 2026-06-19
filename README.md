@@ -87,16 +87,6 @@ https://openweathermap.org/api
 - Работа с внешними API
 - Обработка ошибок
 
-## Планы по улучшению
-
-- [ ] Ввод города через консоль
-- [ ] Вывод влажности воздуха
-- [ ] Вывод скорости ветра
-- [ ] Конфигурация через .env
-- [ ] Улучшенная обработка ошибок
-- [ ] Поддержка любого количества городов
-- [ ] Юнит-тесты
-
 ## Автор
 
 Мой первый проект на Go!;3
@@ -192,17 +182,6 @@ https://openweathermap.org/api
 - WaitGroup
 - Working with External APIs
 - Error Handling
-
-## Future Improvements
-
-- [ ] User input for city names
-- [ ] Display humidity
-- [ ] Display wind speed
-- [ ] Configuration via environment variables
-- [ ] Better error handling
-- [ ] Support for unlimited cities
-- [ ] Unit tests
-- [ ] Colored terminal output
 
 ## Author
 
